@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: feb7a2723a5af4994b239d1fd1711657
+timeCreated: 1442152163
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Blenket
+    100004: Button
+    100006: Cube
+    100008: Floor
+    100010: Frame
+    100012: Knot
+    100014: MattressBot
+    100016: MattressTop
+    100018: Pillow_L
+    100020: Pillow_R
+    100022: Stand
+    100024: WallSides_B
+    100026: WallSides_F
+    100028: WallSides_L
+    100030: WallSides_R
+    100032: WallTop
+    400000: //RootNode
+    400002: Blenket
+    400004: Button
+    400006: Cube
+    400008: Floor
+    400010: Frame
+    400012: Knot
+    400014: MattressBot
+    400016: MattressTop
+    400018: Pillow_L
+    400020: Pillow_R
+    400022: Stand
+    400024: WallSides_B
+    400026: WallSides_F
+    400028: WallSides_L
+    400030: WallSides_R
+    400032: WallTop
+    2300000: Blenket
+    2300002: Button
+    2300004: Cube
+    2300006: Floor
+    2300008: Frame
+    2300010: Knot
+    2300012: MattressBot
+    2300014: MattressTop
+    2300016: Pillow_L
+    2300018: Pillow_R
+    2300020: Stand
+    2300022: WallSides_B
+    2300024: WallSides_F
+    2300026: WallSides_L
+    2300028: WallSides_R
+    2300030: WallTop
+    3300000: Blenket
+    3300002: Button
+    3300004: Cube
+    3300006: Floor
+    3300008: Frame
+    3300010: Knot
+    3300012: MattressBot
+    3300014: MattressTop
+    3300016: Pillow_L
+    3300018: Pillow_R
+    3300020: Stand
+    3300022: WallSides_B
+    3300024: WallSides_F
+    3300026: WallSides_L
+    3300028: WallSides_R
+    3300030: WallTop
+    4300000: WallSides_R
+    4300002: WallSides_B
+    4300004: WallSides_F
+    4300006: Knot
+    4300008: WallTop
+    4300010: WallSides_L
+    4300012: Cube
+    4300014: Button
+    4300016: Stand
+    4300018: Pillow_R
+    4300020: Floor
+    4300022: MattressTop
+    4300024: MattressBot
+    4300026: Frame
+    4300028: Blenket
+    4300030: Pillow_L
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
