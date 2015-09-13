@@ -1,0 +1,12 @@
+*.orig
+*.swp
+*.bak
+*.unityproj
+*.userprefs
+*.csproj
+*.pidb
+*.sln
+*.suo
+[Bb]uild
+[Tt]emp
+.DS_Store
